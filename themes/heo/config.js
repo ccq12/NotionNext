@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '分享编程',
   HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: '1',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_4: '',
+  HERO_TITLE_5: '',
   HERO_TITLE_LINK: '', // 点击图片跳转超链接
 
   // 英雄区显示三个置顶分类
